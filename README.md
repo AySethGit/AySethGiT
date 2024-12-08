@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hello, I'm Ayomide
+<a href="https://www.linkedin.com/in/ayomide-ogunjimi-6a2a13294"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**AySethGit/AySethGiT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Service Desk Analyst working for Infinite Computer Solutions with a profound interest in technology and a dedication to solving complex problems.
 
-Here are some ideas to get you started:
+## Objective
+My journey in Information Technolgy has led me to develop a passion for system administration, cloud tecnology and cybersecurity, and I aim to become a System or Cloud Administrator for a large organization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+|Skills|
+|-----------------------------------------------|
+| Windows Administration        |
+|Linux Administration  | 
+| Hardware & Software Troubleshooting       |
+| Device Asset Management & Documentation      | 
+| Threat and Vulnerability identification                 | 
+| Scripting and Automation |
+
+## Tools
+|System Administration|
+|-----------------------------------------------|
+|Active Directory | 
+|DRA|
+|Microsoft Entra Id |
+
+|Endpoint Management|
+|-----------------------------------------------|
+|Microsoft Intune | 
+|Tanium|
+|Absolute Secure Endpoint |
+
+|Ticketing System|
+|-----------------------------------------------|
+|Spiceworks| 
+|iServe|
+
+| Operating Systems         |
+|---------------------------|
+| Windows 11                |
+| Ubuntu                    |
+| Kali Linux                |
+
+| Remote Support & Access Tools |
+|-------------------------------|
+| Bomgar (BeyondTrust)          |
+
+|VPN                           |
+|-------------------------------|
+| Palo Alto Global Protect      |
+| Cisco AnyConnect              |
+
+## Certifications
+| Certifications           |
+|--------------------------|
+| CompTIA Security+        |
+| CompTIA IT Fundamentals  |
