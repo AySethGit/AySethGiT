@@ -1,10 +1,9 @@
 # Hello, I'm Ayomide
 <a href="https://www.linkedin.com/in/ayomide-ogunjimi-6a2a13294"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-I am a Service Desk Analyst working for Infinite Computer Solutions with a profound interest in technology and a dedication to solving complex problems.
+I am a Service Desk Analyst working for Infinite Computer Solutions. I am deeply interested in technology and dedicated to solving complex problems.
 
 ## Objective
-My journey in Information Technolgy has led me to develop a passion for system administration, cloud tecnology and cybersecurity, and I aim to become a System or Cloud Administrator for a large organization.
+My journey in Information technology has led me to develop a passion for system administration, cloud technology, and cybersecurity. I aim to become a System or Cloud Administrator for a large organization.
 
 ## Skills
 |Skills|
